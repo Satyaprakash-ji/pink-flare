@@ -1,16 +1,16 @@
 @font-face {
     font-family: "Neue Haas Grotesk Text Pro";
-    src: url(./Neue\ Haas\ Grotesk\ Text\ Pro.ttf);
+    src: url(./Neue\ Haas\ Grotesk\ Text\ Pro.woff2);
 }
 
 @font-face {
     font-family: "DS-Digital";
-    src: url(./DS-Digital.ttf);
+    src: url(./DS-Digital.woff2);
 }
 
 @font-face {
     font-family: "Scto Grotesk A Medium";
-    src: url(./Scto\ Grotesk\ A\ Medium.ttf);
+    src: url(./Scto\ Grotesk\ A\ Medium.woff2);
 }
 
 * {
